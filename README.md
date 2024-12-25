@@ -1,5 +1,5 @@
 # Phishing-Attack---Santander-Bootcamp
-Para o bootcamp do Santander voltado para cibersegurança onde o exercício consiste em desenvolver um phishing attack
+Para o bootcamp do Santander voltado para cibersegurança onde o exercício consiste em desenvolver um phishing attack.
 
 Antes de tudo é fundamental estar no modo root do Kali. Para isso, usa-se o comando: _sudo su_
 Para inicializar o setoolkit, insere o comando: _setoolkit_
@@ -18,4 +18,4 @@ Para inicializar o setoolkit, insere o comando: _setoolkit_
        É de extrema importância que seja HTTP
 
 Após um tempo, ele irá ter clonado o website e será possível acessar.
-![](print.jpg)
+![](print.png)
